@@ -10,4 +10,5 @@ Adding functionality like
 <li>merge sort the array
 </ul>
 <h5>Tech stack used</h5>
-React.js ![alt text](build/logo192.png)
+React.js 
+
