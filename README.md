@@ -9,5 +9,5 @@ Adding functionality like
 <li>Bubble sort the array
 <li>merge sort the array
 </ul>
-<h5>tech stack</h5>
+<h5>Tech stack used</h5>
 React.js
