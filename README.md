@@ -12,4 +12,4 @@ Adding functionality like
 <h5>Tech stack used</h5>
 React.js 
 
-![alt text](WhatsApp Image 2019-10-21 at 3.45.23 PM.jpeg)
+![alt text](https://github.com/mridul037/Sorting-Visualizer/blob/master/WhatsApp%20Image%202019-10-21%20at%203.45.23%20PM.jpeg)
